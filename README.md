@@ -24,7 +24,7 @@ https://greasyfork.org/zh-CN/scripts/577401-%E5%8C%97%E6%9E%97%E6%95%99%E5%8A%A1
 
 可以直接在脚本页面点击“安装此脚本”。
 
-**或者手动安装：**
+**如果你访问不了Greasy Fork，可尝试手动安装：**
 
 1. 安装用户脚本管理器，例如 Tampermonkey、Violentmonkey 或 ScriptCat。
 2. 打开脚本文件：[自动评教.user.js](./自动评教.user.js)。
